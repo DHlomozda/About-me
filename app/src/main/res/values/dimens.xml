@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_name_top">16dp</dimen>
+    <dimen name="layout_padding_name_top">8dp</dimen>
+    <dimen name="star_margin_top">16dp</dimen>
+    <dimen name="star_padding_top">8dp</dimen>
+    <dimen name="bio_start">8dp</dimen>
+    <dimen name="bio_end">8dp</dimen>
+    <dimen name="bio_padding_start">8dp</dimen>
+    <dimen name="bio_padding_end">8dp</dimen>
+    <dimen name="button_start">128dp</dimen>
+    <dimen name="button_end">128dp</dimen>
+</resources>

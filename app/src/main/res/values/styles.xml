@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="nameStyle">
+        <item name="android:layout_marginTop">@dimen/layout_margin_name_top</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:paddingTop">@dimen/layout_padding_name_top</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="buttonStyle" parent="android:Widget.Button">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginStart">@dimen/button_start</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin_name_top</item>
+        <item name="android:layout_marginEnd">@dimen/button_end</item>
+        <item name="android:background">@android:drawable/button_onoff_indicator_on</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
